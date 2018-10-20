@@ -1,0 +1,24 @@
+[package]
+name = "my_first_thing"
+version = "0.1.0"
+authors = ["scottshotgg <scgaydos@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.32.0"
+rocket = "0.3.6"
+rocket_codegen = "0.3.6"
+serde = "*"
+serde_derive = "*"
+toml = "*"
+diesel = { version = "1.0.0", features = ["postgres"] }
+dotenv = "0.9.0"
+rocket_contrib = "*"
+vulkano = "*"
+rand = "*"
+vulkano-shader-derive = "*"
+vulkano-win = "*"
+cgmath = "0.16.1"
+image = "0.20.0"
+winit = "0.17"
+time = "0.1.38"
