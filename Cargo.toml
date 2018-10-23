@@ -1,5 +1,5 @@
 [package]
-name = "my_first_thing"
+name = "opencl_rest_rust"
 version = "0.1.0"
 authors = ["scottshotgg <scgaydos@gmail.com>"]
 edition = "2018"
