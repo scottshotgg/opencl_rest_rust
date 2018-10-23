@@ -1,3 +1,3 @@
-# opencl_rest_rust
+# vulkan-rest-rust
 
 something i made
